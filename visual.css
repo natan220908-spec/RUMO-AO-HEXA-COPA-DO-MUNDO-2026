@@ -37,7 +37,7 @@ body{
 .click:hover{
     position:absolute;
     border:3px
-    background:rgba(255,0,0,0.3);
+   rgba(255,0,0,0.3);rgba(255,0,0,0.3);
     box-shadow:0 0 35px #fff;
     transform:scale(1.05);
 }
